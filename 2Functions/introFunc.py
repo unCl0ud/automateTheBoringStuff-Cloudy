@@ -4,3 +4,4 @@ def hello(name):
 
 hello("Test")
 hello("There is nothing important here")
+print("Thiis is not calling the hello funtion")
